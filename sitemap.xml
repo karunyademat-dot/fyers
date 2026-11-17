@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
@@ -12,35 +11,35 @@
 
   <!-- Broker Reviews -->
   <url>
-    <loc>https://www.sharebazaaronline.com/brokerdetails/fyers</loc>
+    <loc>https://www.sharebazaaronline.com/fyers</loc>
     <lastmod>2026-11-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://www.sharebazaaronline.com/brokerdetails/upstox</loc>
+    <loc>https://www.sharebazaaronline.com/upstox</loc>
     <lastmod>2026-11-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://www.sharebazaaronline.com/brokerdetails/angel-one</loc>
+    <loc>https://www.sharebazaaronline.com/angelone</loc>
     <lastmod>2026-11-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://www.sharebazaaronline.com/brokerdetails/zerodha</loc>
+    <loc>https://www.sharebazaaronline.com/zerodha</loc>
     <lastmod>2026-11-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://www.sharebazaaronline.com/brokerdetails/dhan</loc>
+    <loc>https://www.sharebazaaronline.com/dhan</loc>
     <lastmod>2026-11-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
